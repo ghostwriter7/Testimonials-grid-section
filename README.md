@@ -1,5 +1,5 @@
 # Testimonials-grid-section
-Challenge at Frondend Mentor</br>
+Challenge at Frontend Mentor</br>
 Difficulty level: <b>Junior</b>
 
 Live preview: <a href="https://testimonials-grid-section-opal.vercel.app/">Link</a>
